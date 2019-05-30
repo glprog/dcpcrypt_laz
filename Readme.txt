@@ -128,3 +128,5 @@ have any queries or bug reports please email me at crypto@cityinthesky.co.uk.
 
 DCPcrypt is copyrighted (c) 1999-2003 David Barton.
 All trademarks are property of their respective owners.
+
+Test
